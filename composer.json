@@ -1,5 +1,6 @@
 {
     "name": "backpack/settings",
+    "version": "2.0.31",
     "description": "Application settings interface for Laravel 5 using Backpack CRUD.",
     "keywords": [
         "tabacitu",
